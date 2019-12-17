@@ -38,7 +38,7 @@ wget ftp://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/deLangeKM_2806790
 [ Files in order of (1) serum urate _Kottgen_, (2) gout _Kottgen_, (3) inflammatory bowel disease _de Lange_, and (4) Crohn's disease _de Lange_ ]
 
 
-## Running MultiZoom for regional association plots and colocalization
+## Visualizing regional association plots and performing colocalization with MultiZoom.R
 
 **Step One** 
 
