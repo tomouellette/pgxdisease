@@ -2,7 +2,7 @@
 
 ## Data
 
-The required data for visualization and colocalization analysis can be retrieved from:
+The required data to replicate statistically significant findings for visualization and colocalization analysis can be retrieved from:
 
 **Pharmacogenomics Research Network**
 
@@ -69,4 +69,4 @@ Example:
 Rscript MultiZoom.R "~/Desktop" "~/Desktop/INFOFILE.tsv" hg19 "~/Desktop/OutputFolder"
 ```
 
-We have provided an info file in Example_MultiZoom; you must harmonize the GWAS Summary Statistics column names (refer to Step One) for it to work.
+Having trouble? Please contact t.ouellette@mail.utoronto.ca
