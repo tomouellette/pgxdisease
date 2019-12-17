@@ -1,0 +1,660 @@
+specific_phenotype	label	phenotype
+40001_C159_PCD Oesophagus	A0040001C159.tsv	Primary Cause of Death
+40001_C169 PCD_ Stomach	A0040001C169.tsv	Primary Cause of Death
+40001_C189_PCD Colon	A0040001C189.tsv	Primary Cause of Death
+40001_C19_PCD Neoplasm RJ	A0040001C19.tsv	Primary Cause of Death
+40001_C20_PCD Neoplasm Rectum	A0040001C20.tsv	Primary Cause of Death
+40001_C221_PCD IHBD Carcinoma	A0040001C221.tsv	Primary Cause of Death
+40001_C259_PCD Pancreas	A0040001C259.tsv	Primary Cause of Death
+40001_C349_PCD Bronchus or Lung	A0040001C349.tsv	Primary Cause of Death
+40001_C439_PCD Melanoma of Skin	A0040001C439.tsv	Primary Cause of Death
+40001_C459_PCD Mesothelioma	A0040001C459.tsv	Primary Cause of Death
+40001_C509_PCD Breast	A0040001C509.tsv	Primary Cause of Death
+40001_C56_PCD Neoplasm Ovary	A0040001C56.tsv	Primary Cause of Death
+40001_C64_PCD Neoplasm Kidney	A0040001C64.tsv	Primary Cause of Death
+40001_C679_PCD Bladder	A0040001C679.tsv	Primary Cause of Death
+40001_C719_PCD Brain	A0040001C719.tsv	Primary Cause of Death
+40001_C80_PCD Neoplasm Unspecified	A0040001C80.tsv	Primary Cause of Death
+40001_C900_PCD Multiple Myeloma	A0040001C900.tsv	Primary Cause of Death
+40001_C920_PCD AML	A0040001C920.tsv	Primary Cause of Death
+40001_G122_PCD Motor Neuron Disease	A0040001G122.tsv	Primary Cause of Death
+40001_I219_PCD Acute MI	A0040001I219.tsv	Primary Cause of Death
+40001_I251_PCD Atherosclerotic CVD	A0040001I251.tsv	Primary Cause of Death
+40001_I259_PCD Chronic ischemic CVD	A0040001I259.tsv	Primary Cause of Death
+40001_I64_PCD Stroke Unspecified	A0040001I64.tsv	Primary Cause of Death
+40001_J841_PCD IPD with Fibrosis	A0040001J841.tsv	Primary Cause of Death
+A04 Other bacterial intestinal infections	A04.tsv	A00 - B99 Certain infectious and parasitic diseases
+A08 Viral and other specified intestinal infections	A08.tsv	A00 - B99 Certain infectious and parasitic diseases
+A09 Diarrhoea and gastro-enteritis of presumed infectious origin	A09.tsv	A00 - B99 Certain infectious and parasitic diseases
+A41 Other septicaemia	A41.tsv	A00 - B99 Certain infectious and parasitic diseases
+A63 Other predominantly sexually transmitted diseases, not elsewhere classified	A63.tsv	A00 - B99 Certain infectious and parasitic diseases
+A87 Viral meningitis	A87.tsv	A00 - B99 Certain infectious and parasitic diseases
+B02 Zoster [herpes zoster]	B02.tsv	A00 - B99 Certain infectious and parasitic diseases
+B07 Viral warts	B07.tsv	A00 - B99 Certain infectious and parasitic diseases
+B18 Chronic viral hepatitis	B18.tsv	A00 - B99 Certain infectious and parasitic diseases
+B34 Viral infection of unspecified site	B34.tsv	A00 - B99 Certain infectious and parasitic diseases
+B37 Candidiasis	B37.tsv	A00 - B99 Certain infectious and parasitic diseases
+C01 Malignant neoplasm of base of tongue	C01.tsv	C00 - D48 Neoplasms
+C02 Malignant neoplasm of other and unspecified parts of tongue	C02.tsv	C00 - D48 Neoplasms
+C09 Malignant neoplasm of tonsil	C09.tsv	C00 - D48 Neoplasms
+C15 Malignant neoplasm of oesophagus	C15.tsv	C00 - D48 Neoplasms
+C16 Malignant neoplasm of stomach	C16.tsv	C00 - D48 Neoplasms
+C17 Malignant neoplasm of small intestine	C17.tsv	C00 - D48 Neoplasms
+C18 Malignant neoplasm of colon	C18.tsv	C00 - D48 Neoplasms
+C19 Malignant neoplasm of rectosigmoid junction	C19.tsv	C00 - D48 Neoplasms
+C20 Malignant neoplasm of rectum	C20.tsv	C00 - D48 Neoplasms
+C21 Malignant neoplasm of anus and anal canal	C21.tsv	C00 - D48 Neoplasms
+C22 Malignant neoplasm of liver and intrahepatic bile ducts	C22.tsv	C00 - D48 Neoplasms
+C25 Malignant neoplasm of pancreas	C25.tsv	C00 - D48 Neoplasms
+C32 Malignant neoplasm of larynx	C32.tsv	C00 - D48 Neoplasms
+C34 Malignant neoplasm of bronchus and lung	C34.tsv	C00 - D48 Neoplasms
+C43 Malignant melanoma of skin	C43.tsv	C00 - D48 Neoplasms
+C44 Other malignant neoplasms of skin	C44.tsv	C00 - D48 Neoplasms
+C45 Mesothelioma	C45.tsv	C00 - D48 Neoplasms
+C48 Malignant neoplasm of retroperitoneum and peritoneum	C48.tsv	C00 - D48 Neoplasms
+C49 Malignant neoplasm of other connective and soft tissue	C49.tsv	C00 - D48 Neoplasms
+C50 Malignant neoplasm of breast	C50.tsv	C00 - D48 Neoplasms
+C53 Malignant neoplasm of cervix uteri	C53.tsv	C00 - D48 Neoplasms
+C54 Malignant neoplasm of corpus uteri	C54.tsv	C00 - D48 Neoplasms
+C56 Malignant neoplasm of ovary	C56.tsv	C00 - D48 Neoplasms
+C61 Malignant neoplasm of prostate	C61.tsv	C00 - D48 Neoplasms
+C62 Malignant neoplasm of testis	C62.tsv	C00 - D48 Neoplasms
+"C64 Malignant neoplasm of kidney, except renal pelvis"	C64.tsv	C00 - D48 Neoplasms
+C67 Malignant neoplasm of bladder	C67.tsv	C00 - D48 Neoplasms
+C69 Malignant neoplasm of eye and adnexa	C69.tsv	C00 - D48 Neoplasms
+C71 Malignant neoplasm of brain	C71.tsv	C00 - D48 Neoplasms
+C73 Malignant neoplasm of thyroid gland	C73.tsv	C00 - D48 Neoplasms
+C77 Secondary and unspecified malignant neoplasm of lymph nodes	C77.tsv	C00 - D48 Neoplasms
+C78 Secondary malignant neoplasm of respiratory and digestive organs	C78.tsv	C00 - D48 Neoplasms
+C79 Secondary malignant neoplasm of other sites	C79.tsv	C00 - D48 Neoplasms
+C80 Malignant neoplasm without specification of site	C80.tsv	C00 - D48 Neoplasms
+C81 Hodgkin's disease	C81.tsv	C00 - D48 Neoplasms
+C82 Follicular [nodular] non-Hodgkin's lymphoma	C82.tsv	C00 - D48 Neoplasms
+C83 Diffuse non-Hodgkin's lymphoma	C83.tsv	C00 - D48 Neoplasms
+C85 Other and unspecified types of non-Hodgkin's lymphoma	C85.tsv	C00 - D48 Neoplasms
+C90 Multiple myeloma and malignant plasma cell neoplasms	C90.tsv	C00 - D48 Neoplasms
+C91 Lymphoid leukaemia	C91.tsv	C00 - D48 Neoplasms
+C92 Myeloid leukaemia	C92.tsv	C00 - D48 Neoplasms
+D03 Melanoma in situ	D03.tsv	C00 - D48 Neoplasms
+D04 Carcinoma in situ of skin	D04.tsv	C00 - D48 Neoplasms
+D05 Carcinoma in situ of breast	D05.tsv	C00 - D48 Neoplasms
+D06 Carcinoma in situ of cervix uteri	D06.tsv	C00 - D48 Neoplasms
+D07 Carcinoma in situ of other and unspecified genital organs	D07.tsv	C00 - D48 Neoplasms
+D09 Carcinoma in situ of other and unspecified sites	D09.tsv	C00 - D48 Neoplasms
+D10 Benign neoplasm of mouth and pharynx	D10.tsv	C00 - D48 Neoplasms
+D11 Benign neoplasm of major salivary glands	D11.tsv	C00 - D48 Neoplasms
+"D12 Benign neoplasm of colon, rectum, anus and anal canal"	D12.tsv	C00 - D48 Neoplasms
+D13 Benign neoplasm of other and ill-defined parts of digestive system	D13.tsv	C00 - D48 Neoplasms
+D14 Benign neoplasm of middle ear and respiratory system	D14.tsv	C00 - D48 Neoplasms
+D16 Benign neoplasm of bone and articular cartilage	D16.tsv	C00 - D48 Neoplasms
+D17 Benign lipomatous neoplasm	D17.tsv	C00 - D48 Neoplasms
+"D18 Haemangioma and lymphangioma, any site"	D18.tsv	C00 - D48 Neoplasms
+D21 Other benign neoplasms of connective and other soft tissue	D21.tsv	C00 - D48 Neoplasms
+D22 Melanocytic naevi	D22.tsv	C00 - D48 Neoplasms
+D23 Other benign neoplasms of skin	D23.tsv	C00 - D48 Neoplasms
+D24 Benign neoplasm of breast	D24.tsv	C00 - D48 Neoplasms
+D25 Leiomyoma of uterus	D25.tsv	C00 - D48 Neoplasms
+D26 Other benign neoplasms of uterus	D26.tsv	C00 - D48 Neoplasms
+D27 Benign neoplasm of ovary	D27.tsv	C00 - D48 Neoplasms
+D28 Benign neoplasm of other and unspecified female genital organs	D28.tsv	C00 - D48 Neoplasms
+D30 Benign neoplasm of urinary organs	D30.tsv	C00 - D48 Neoplasms
+D32 Benign neoplasm of meninges	D32.tsv	C00 - D48 Neoplasms
+D33 Benign neoplasm of brain and other parts of central nervous system	D33.tsv	C00 - D48 Neoplasms
+D34 Benign neoplasm of thyroid gland	D34.tsv	C00 - D48 Neoplasms
+D35 Benign neoplasm of other and unspecified endocrine glands	D35.tsv	C00 - D48 Neoplasms
+D36 Benign neoplasm of other and unspecified sites	D36.tsv	C00 - D48 Neoplasms
+D37 Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs	D37.tsv	C00 - D48 Neoplasms
+D38 Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs	D38.tsv	C00 - D48 Neoplasms
+D39 Neoplasm of uncertain or unknown behaviour of female genital organs	D39.tsv	C00 - D48 Neoplasms
+D41 Neoplasm of uncertain or unknown behaviour of urinary organs	D41.tsv	C00 - D48 Neoplasms
+D43 Neoplasm of uncertain or unknown behaviour of brain and central nervous system	D43.tsv	C00 - D48 Neoplasms
+D44 Neoplasm of uncertain or unknown behaviour of endocrine glands	D44.tsv	C00 - D48 Neoplasms
+D45 Polycythaemia vera	D45.tsv	C00 - D48 Neoplasms
+D46 Myelodysplastic syndromes	D46.tsv	C00 - D48 Neoplasms
+D47 Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue	D47.tsv	C00 - D48 Neoplasms
+D48 Neoplasm of uncertain or unknown behaviour of other and unspecified sites	D48.tsv	C00 - D48 Neoplasms
+D50 Iron deficiency anaemia	D50.tsv	D50 - D89 Diseases of the blood/blood-forming organs; certain disorders involving immune mechanism
+D61 Other aplastic anaemias	D61.tsv	D50 - D89 Diseases of the blood/blood-forming organs; certain disorders involving immune mechanism
+D63 Anaemia in chronic diseases classified elsewhere	D63.tsv	D50 - D89 Diseases of the blood/blood-forming organs; certain disorders involving immune mechanism
+D64 Other anaemias	D64.tsv	D50 - D89 Diseases of the blood/blood-forming organs; certain disorders involving immune mechanism
+D69 Purpura and other haemorrhagic conditions	D69.tsv	D50 - D89 Diseases of the blood/blood-forming organs; certain disorders involving immune mechanism
+D70 Agranulocytosis	D70.tsv	D50 - D89 Diseases of the blood/blood-forming organs; certain disorders involving immune mechanism
+D75 Other diseases of blood and blood-forming organs	D75.tsv	D50 - D89 Diseases of the blood/blood-forming organs; certain disorders involving immune mechanism
+D86 Sarcoidosis	D86.tsv	D50 - D89 Diseases of the blood/blood-forming organs; certain disorders involving immune mechanism
+D89 Other disorders involving the immune mechanism, not elsewhere classified	D89.tsv	D50 - D89 Diseases of the blood/blood-forming organs; certain disorders involving immune mechanism
+E03 Other hypothyroidism	E03.tsv	"E00 - E90 Endocrine, nutritional and metabolic diseases"
+E04 Other non-toxic goitre	E04.tsv	"E00 - E90 Endocrine, nutritional and metabolic diseases"
+E05 Thyrotoxicosis [hyperthyroidism]	E05.tsv	"E00 - E90 Endocrine, nutritional and metabolic diseases"
+E10 Insulin-dependent diabetes mellitus	E10.tsv	"E00 - E90 Endocrine, nutritional and metabolic diseases"
+E11 Non-insulin-dependent diabetes mellitus	E11.tsv	"E00 - E90 Endocrine, nutritional and metabolic diseases"
+E14 Unspecified diabetes mellitus	E14.tsv	"E00 - E90 Endocrine, nutritional and metabolic diseases"
+E16 Other disorders of pancreatic internal secretion	E16.tsv	"E00 - E90 Endocrine, nutritional and metabolic diseases"
+E21 Hyperparathyroidism and other disorders of parathyroid gland	E21.tsv	"E00 - E90 Endocrine, nutritional and metabolic diseases"
+E22 Hyperfunction of pituitary gland	E22.tsv	"E00 - E90 Endocrine, nutritional and metabolic diseases"
+E23 Hypofunction and other disorders of pituitary gland	E23.tsv	"E00 - E90 Endocrine, nutritional and metabolic diseases"
+E27 Other disorders of adrenal gland	E27.tsv	"E00 - E90 Endocrine, nutritional and metabolic diseases"
+E66 Obesity	E66.tsv	"E00 - E90 Endocrine, nutritional and metabolic diseases"
+E83 Disorders of mineral metabolism	E83.tsv	"E00 - E90 Endocrine, nutritional and metabolic diseases"
+E86 Volume depletion	E86.tsv	"E00 - E90 Endocrine, nutritional and metabolic diseases"
+"E87 Other disorders of fluid, electrolyte and acid-base balance"	E87.tsv	"E00 - E90 Endocrine, nutritional and metabolic diseases"
+"F05 Delirium, not induced by alcohol and other psychoactive substances"	F05.tsv	F00 - F99 Mental and behavioural disorders
+F10 Mental and behavioural disorders due to use of alcohol	F10.tsv	F00 - F99 Mental and behavioural disorders
+F20 Schizophrenia	F20.tsv	F00 - F99 Mental and behavioural disorders
+F31 Bipolar affective disorder	F31.tsv	F00 - F99 Mental and behavioural disorders
+F32 Depressive episode	F32.tsv	F00 - F99 Mental and behavioural disorders
+F33 Recurrent depressive disorder	F33.tsv	F00 - F99 Mental and behavioural disorders
+F41 Other anxiety disorders	F41.tsv	F00 - F99 Mental and behavioural disorders
+"F43 Reaction to severe stress, and adjustment disorders"	F43.tsv	F00 - F99 Mental and behavioural disorders
+F45 Somatoform disorders	F45.tsv	F00 - F99 Mental and behavioural disorders
+"F52 Sexual dysfunction, not caused by organic disorder or disease"	F52.tsv	F00 - F99 Mental and behavioural disorders
+"F99 Mental disorder, not otherwise specified"	F99.tsv	F00 - F99 Mental and behavioural disorders
+G12 Spinal muscular atrophy and related syndromes	G12.tsv	G00 - G99 Diseases of the nervous system
+G20 Parkinson's disease	G20.tsv	G00 - G99 Diseases of the nervous system
+G24 Dystonia	G24.tsv	G00 - G99 Diseases of the nervous system
+G35 Multiple sclerosis	G35.tsv	G00 - G99 Diseases of the nervous system
+G37 Other demyelinating diseases of central nervous system	G37.tsv	G00 - G99 Diseases of the nervous system
+G40 Epilepsy	G40.tsv	G00 - G99 Diseases of the nervous system
+G43 Migraine	G43.tsv	G00 - G99 Diseases of the nervous system
+G44 Other headache syndromes	G44.tsv	G00 - G99 Diseases of the nervous system
+G45 Transient cerebral ischaemic attacks and related syndromes	G45.tsv	G00 - G99 Diseases of the nervous system
+G47 Sleep disorders	G47.tsv	G00 - G99 Diseases of the nervous system
+G50 Disorders of trigeminal nerve	G50.tsv	G00 - G99 Diseases of the nervous system
+G51 Facial nerve disorders	G51.tsv	G00 - G99 Diseases of the nervous system
+G54 Nerve root and plexus disorders	G54.tsv	G00 - G99 Diseases of the nervous system
+G56 Mononeuropathies of upper limb	G56.tsv	G00 - G99 Diseases of the nervous system
+G57 Mononeuropathies of lower limb	G57.tsv	G00 - G99 Diseases of the nervous system
+G58 Other mononeuropathies	G58.tsv	G00 - G99 Diseases of the nervous system
+G61 Inflammatory polyneuropathy	G61.tsv	G00 - G99 Diseases of the nervous system
+G62 Other polyneuropathies	G62.tsv	G00 - G99 Diseases of the nervous system
+G81 Hemiplegia	G81.tsv	G00 - G99 Diseases of the nervous system
+G93 Other disorders of brain	G93.tsv	G00 - G99 Diseases of the nervous system
+G95 Other diseases of spinal cord	G95.tsv	G00 - G99 Diseases of the nervous system
+H00 Hordeolum and chalazion	H00.tsv	H00 - H59 Diseases of the eye and adnexa
+H01 Other inflammation of eyelid	H01.tsv	H00 - H59 Diseases of the eye and adnexa
+H02 Other disorders of eyelid	H02.tsv	H00 - H59 Diseases of the eye and adnexa
+H04 Disorders of lachrymal system	H04.tsv	H00 - H59 Diseases of the eye and adnexa
+H05 Disorders of orbit	H05.tsv	H00 - H59 Diseases of the eye and adnexa
+H11 Other disorders of conjunctiva	H11.tsv	H00 - H59 Diseases of the eye and adnexa
+H16 Keratitis	H16.tsv	H00 - H59 Diseases of the eye and adnexa
+H18 Other disorders of cornea	H18.tsv	H00 - H59 Diseases of the eye and adnexa
+H25 Senile cataract	H25.tsv	H00 - H59 Diseases of the eye and adnexa
+H26 Other cataract	H26.tsv	H00 - H59 Diseases of the eye and adnexa
+H27 Other disorders of lens	H27.tsv	H00 - H59 Diseases of the eye and adnexa
+H33 Retinal detachments and breaks	H33.tsv	H00 - H59 Diseases of the eye and adnexa
+H34 Retinal vascular occlusions	H34.tsv	H00 - H59 Diseases of the eye and adnexa
+H35 Other retinal disorders	H35.tsv	H00 - H59 Diseases of the eye and adnexa
+H40 Glaucoma	H40.tsv	H00 - H59 Diseases of the eye and adnexa
+H43 Disorders of vitreous body	H43.tsv	H00 - H59 Diseases of the eye and adnexa
+H49 Paralytic strabismus	H49.tsv	H00 - H59 Diseases of the eye and adnexa
+H50 Other strabismus	H50.tsv	H00 - H59 Diseases of the eye and adnexa
+H52 Disorders of refraction and accommodation	H52.tsv	H00 - H59 Diseases of the eye and adnexa
+H53 Visual disturbances	H53.tsv	H00 - H59 Diseases of the eye and adnexa
+H57 Other disorders of eye and adnexa	H57.tsv	H00 - H59 Diseases of the eye and adnexa
+"H59 Postprocedural disorders of eye and adnexa, not elsewhere classified"	H59.tsv	H00 - H59 Diseases of the eye and adnexa
+H60 Otitis externa	H60.tsv	H60 - H95 Diseases of the ear and mastoid process
+H61 Other disorders of external ear	H61.tsv	H60 - H95 Diseases of the ear and mastoid process
+H65 Nonsuppurative otitis media	H65.tsv	H60 - H95 Diseases of the ear and mastoid process
+H66 Suppurative and unspecified otitis media	H66.tsv	H60 - H95 Diseases of the ear and mastoid process
+H69 Other disorders of Eustachian tube	H69.tsv	H60 - H95 Diseases of the ear and mastoid process
+H71 Cholesteatoma of middle ear	H71.tsv	H60 - H95 Diseases of the ear and mastoid process
+H72 Perforation of tympanic membrane	H72.tsv	H60 - H95 Diseases of the ear and mastoid process
+H73 Other disorders of tympanic membrane	H73.tsv	H60 - H95 Diseases of the ear and mastoid process
+H74 Other disorders of middle ear and mastoid	H74.tsv	H60 - H95 Diseases of the ear and mastoid process
+H80 Otosclerosis	H80.tsv	H60 - H95 Diseases of the ear and mastoid process
+H81 Disorders of vestibular function	H81.tsv	H60 - H95 Diseases of the ear and mastoid process
+H83 Other diseases of inner ear	H83.tsv	H60 - H95 Diseases of the ear and mastoid process
+H90 Conductive and sensorineural hearing loss	H90.tsv	H60 - H95 Diseases of the ear and mastoid process
+H91 Other hearing loss	H91.tsv	H60 - H95 Diseases of the ear and mastoid process
+H92 Otalgia and effusion of ear	H92.tsv	H60 - H95 Diseases of the ear and mastoid process
+"H93 Other disorders of ear, not elsewhere classified"	H93.tsv	H60 - H95 Diseases of the ear and mastoid process
+I08 Multiple valve diseases	I08.tsv	I00 - I99 Diseases of the circulatory system
+I10 Essential (primary) hypertension	I10.tsv	I00 - I99 Diseases of the circulatory system
+I12 Hypertensive renal disease	I12.tsv	I00 - I99 Diseases of the circulatory system
+I20 Angina pectoris	I20.tsv	I00 - I99 Diseases of the circulatory system
+I21 Acute myocardial infarction	I21.tsv	I00 - I99 Diseases of the circulatory system
+I22 Subsequent myocardial infarction	I22.tsv	I00 - I99 Diseases of the circulatory system
+I24 Other acute ischaemic heart diseases	I24.tsv	I00 - I99 Diseases of the circulatory system
+I25 Chronic ischaemic heart disease	I25.tsv	I00 - I99 Diseases of the circulatory system
+I26 Pulmonary embolism	I26.tsv	I00 - I99 Diseases of the circulatory system
+I27 Other pulmonary heart diseases	I27.tsv	I00 - I99 Diseases of the circulatory system
+I30 Acute pericarditis	I30.tsv	I00 - I99 Diseases of the circulatory system
+I31 Other diseases of pericardium	I31.tsv	I00 - I99 Diseases of the circulatory system
+I33 Acute and subacute endocarditis	I33.tsv	I00 - I99 Diseases of the circulatory system
+I34 Nonrheumatic mitral valve disorders	I34.tsv	I00 - I99 Diseases of the circulatory system
+I35 Nonrheumatic aortic valve disorders	I35.tsv	I00 - I99 Diseases of the circulatory system
+I42 Cardiomyopathy	I42.tsv	I00 - I99 Diseases of the circulatory system
+I44 Atrioventricular and left bundle-branch block	I44.tsv	I00 - I99 Diseases of the circulatory system
+I45 Other conduction disorders	I45.tsv	I00 - I99 Diseases of the circulatory system
+I46 Cardiac arrest	I46.tsv	I00 - I99 Diseases of the circulatory system
+I47 Paroxysmal tachycardia	I47.tsv	I00 - I99 Diseases of the circulatory system
+I48 Atrial fibrillation and flutter	I48.tsv	I00 - I99 Diseases of the circulatory system
+I49 Other cardiac arrhythmias	I49.tsv	I00 - I99 Diseases of the circulatory system
+I50 Heart failure	I50.tsv	I00 - I99 Diseases of the circulatory system
+I51 Complications and ill-defined descriptions of heart disease	I51.tsv	I00 - I99 Diseases of the circulatory system
+I60 Subarachnoid haemorrhage	I60.tsv	I00 - I99 Diseases of the circulatory system
+I61 Intracerebral haemorrhage	I61.tsv	I00 - I99 Diseases of the circulatory system
+I62 Other nontraumatic intracranial haemorrhage	I62.tsv	I00 - I99 Diseases of the circulatory system
+I63 Cerebral infarction	I63.tsv	I00 - I99 Diseases of the circulatory system
+"I64 Stroke, not specified as haemorrhage or infarction"	I64.tsv	I00 - I99 Diseases of the circulatory system
+"I65 Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction"	I65.tsv	I00 - I99 Diseases of the circulatory system
+I67 Other cerebrovascular diseases	I67.tsv	I00 - I99 Diseases of the circulatory system
+I70 Atherosclerosis	I70.tsv	I00 - I99 Diseases of the circulatory system
+I71 Aortic aneurysm and dissection	I71.tsv	I00 - I99 Diseases of the circulatory system
+I72 Other aneurysm	I72.tsv	I00 - I99 Diseases of the circulatory system
+I73 Other peripheral vascular diseases	I73.tsv	I00 - I99 Diseases of the circulatory system
+I74 Arterial embolism and thrombosis	I74.tsv	I00 - I99 Diseases of the circulatory system
+I77 Other disorders of arteries and arterioles	I77.tsv	I00 - I99 Diseases of the circulatory system
+I78 Diseases of capillaries	I78.tsv	I00 - I99 Diseases of the circulatory system
+I80 Phlebitis and thrombophlebitis	I80.tsv	I00 - I99 Diseases of the circulatory system
+I82 Other venous embolism and thrombosis	I82.tsv	I00 - I99 Diseases of the circulatory system
+I83 Varicose veins of lower extremities	I83.tsv	I00 - I99 Diseases of the circulatory system
+I84 Haemorrhoids	I84.tsv	I00 - I99 Diseases of the circulatory system
+I85 Oesophageal varices	I85.tsv	I00 - I99 Diseases of the circulatory system
+I86 Varicose veins of other sites	I86.tsv	I00 - I99 Diseases of the circulatory system
+I87 Other disorders of veins	I87.tsv	I00 - I99 Diseases of the circulatory system
+I89 Other non-infective disorders of lymphatic vessels and lymph nodes	I89.tsv	I00 - I99 Diseases of the circulatory system
+I95 Hypotension	I95.tsv	I00 - I99 Diseases of the circulatory system
+J01 Acute sinusitis	J01.tsv	J00 - J99 Diseases of the respiratory system
+J02 Acute pharyngitis	J02.tsv	J00 - J99 Diseases of the respiratory system
+J03 Acute tonsillitis	J03.tsv	J00 - J99 Diseases of the respiratory system
+J06 Acute upper respiratory infections of multiple and unspecified sites	J06.tsv	J00 - J99 Diseases of the respiratory system
+J13 Pneumonia due to Streptococcus pneumoniae	J13.tsv	J00 - J99 Diseases of the respiratory system
+"J15 Bacterial pneumonia, not elsewhere classified"	J15.tsv	J00 - J99 Diseases of the respiratory system
+"J18 Pneumonia, organism unspecified"	J18.tsv	J00 - J99 Diseases of the respiratory system
+J20 Acute bronchitis	J20.tsv	J00 - J99 Diseases of the respiratory system
+J22 Unspecified acute lower respiratory infection	J22.tsv	J00 - J99 Diseases of the respiratory system
+"J31 Chronic rhinitis, nasopharyngitis and pharyngitis"	J31.tsv	J00 - J99 Diseases of the respiratory system
+J32 Chronic sinusitis	J32.tsv	J00 - J99 Diseases of the respiratory system
+J33 Nasal polyp	J33.tsv	J00 - J99 Diseases of the respiratory system
+J34 Other disorders of nose and nasal sinuses	J34.tsv	J00 - J99 Diseases of the respiratory system
+J35 Chronic diseases of tonsils and adenoids	J35.tsv	J00 - J99 Diseases of the respiratory system
+J36 Peritonsillar abscess	J36.tsv	J00 - J99 Diseases of the respiratory system
+"J38 Diseases of vocal cords and larynx, not elsewhere classified"	J38.tsv	J00 - J99 Diseases of the respiratory system
+J39 Other diseases of upper respiratory tract	J39.tsv	J00 - J99 Diseases of the respiratory system
+"J40 Bronchitis, not specified as acute or chronic"	J40.tsv	J00 - J99 Diseases of the respiratory system
+J43 Emphysema	J43.tsv	J00 - J99 Diseases of the respiratory system
+J44 Other chronic obstructive pulmonary disease	J44.tsv	J00 - J99 Diseases of the respiratory system
+J45 Asthma	J45.tsv	J00 - J99 Diseases of the respiratory system
+J46 Status asthmaticus	J46.tsv	J00 - J99 Diseases of the respiratory system
+J47 Bronchiectasis	J47.tsv	J00 - J99 Diseases of the respiratory system
+J69 Pneumonitis due to solids and liquids	J69.tsv	J00 - J99 Diseases of the respiratory system
+J84 Other interstitial pulmonary diseases	J84.tsv	J00 - J99 Diseases of the respiratory system
+J86 Pyothorax	J86.tsv	J00 - J99 Diseases of the respiratory system
+"J90 Pleural effusion, not elsewhere classified"	J90.tsv	J00 - J99 Diseases of the respiratory system
+J93 Pneumothorax	J93.tsv	J00 - J99 Diseases of the respiratory system
+"J96 Respiratory failure, not elsewhere classified"	J96.tsv	J00 - J99 Diseases of the respiratory system
+J98 Other respiratory disorders	J98.tsv	J00 - J99 Diseases of the respiratory system
+K00 Disorders of tooth development and eruption	K00.tsv	K00 - K93 Diseases of the digestive system
+K01 Embedded and impacted teeth	K01.tsv	K00 - K93 Diseases of the digestive system
+K02 Dental caries	K02.tsv	K00 - K93 Diseases of the digestive system
+K04 Diseases of pulp and periapical tissues	K04.tsv	K00 - K93 Diseases of the digestive system
+K05 Gingivitis and periodontal diseases	K05.tsv	K00 - K93 Diseases of the digestive system
+K06 Other disorders of gingiva and edentulous alveolar ridge	K06.tsv	K00 - K93 Diseases of the digestive system
+K07 Dentofacial anomalies [including malocclusion]	K07.tsv	K00 - K93 Diseases of the digestive system
+K08 Other disorders of teeth and supporting structures	K08.tsv	K00 - K93 Diseases of the digestive system
+"K09 Cysts of oral region, not elsewhere classified"	K09.tsv	K00 - K93 Diseases of the digestive system
+K10 Other diseases of jaws	K10.tsv	K00 - K93 Diseases of the digestive system
+K11 Diseases of salivary glands	K11.tsv	K00 - K93 Diseases of the digestive system
+K12 Stomatitis and related lesions	K12.tsv	K00 - K93 Diseases of the digestive system
+K13 Other diseases of lip and oral mucosa	K13.tsv	K00 - K93 Diseases of the digestive system
+K14 Diseases of tongue	K14.tsv	K00 - K93 Diseases of the digestive system
+K20 Oesophagitis	K20.tsv	K00 - K93 Diseases of the digestive system
+K21 Gastro-oesophageal reflux disease	K21.tsv	K00 - K93 Diseases of the digestive system
+K22 Other diseases of oesophagus	K22.tsv	K00 - K93 Diseases of the digestive system
+K25 Gastric ulcer	K25.tsv	K00 - K93 Diseases of the digestive system
+K26 Duodenal ulcer	K26.tsv	K00 - K93 Diseases of the digestive system
+K29 Gastritis and duodenitis	K29.tsv	K00 - K93 Diseases of the digestive system
+K30 Dyspepsia	K30.tsv	K00 - K93 Diseases of the digestive system
+K31 Other diseases of stomach and duodenum	K31.tsv	K00 - K93 Diseases of the digestive system
+K35 Acute appendicitis	K35.tsv	K00 - K93 Diseases of the digestive system
+K37 Unspecified appendicitis	K37.tsv	K00 - K93 Diseases of the digestive system
+K38 Other diseases of appendix	K38.tsv	K00 - K93 Diseases of the digestive system
+K40 Inguinal hernia	K40.tsv	K00 - K93 Diseases of the digestive system
+K41 Femoral hernia	K41.tsv	K00 - K93 Diseases of the digestive system
+K42 Umbilical hernia	K42.tsv	K00 - K93 Diseases of the digestive system
+K43 Ventral hernia	K43.tsv	K00 - K93 Diseases of the digestive system
+K44 Diaphragmatic hernia	K44.tsv	K00 - K93 Diseases of the digestive system
+K46 Unspecified abdominal hernia	K46.tsv	K00 - K93 Diseases of the digestive system
+K50 Crohn's disease [regional enteritis]	K50.tsv	K00 - K93 Diseases of the digestive system
+K51 Ulcerative colitis	K51.tsv	K00 - K93 Diseases of the digestive system
+K52 Other non-infective gastro-enteritis and colitis	K52.tsv	K00 - K93 Diseases of the digestive system
+K55 Vascular disorders of intestine	K55.tsv	K00 - K93 Diseases of the digestive system
+K56 Paralytic ileus and intestinal obstruction without hernia	K56.tsv	K00 - K93 Diseases of the digestive system
+K57 Diverticular disease of intestine	K57.tsv	K00 - K93 Diseases of the digestive system
+K58 Irritable bowel syndrome	K58.tsv	K00 - K93 Diseases of the digestive system
+K59 Other functional intestinal disorders	K59.tsv	K00 - K93 Diseases of the digestive system
+K60 Fissure and fistula of anal and rectal regions	K60.tsv	K00 - K93 Diseases of the digestive system
+K61 Abscess of anal and rectal regions	K61.tsv	K00 - K93 Diseases of the digestive system
+K62 Other diseases of anus and rectum	K62.tsv	K00 - K93 Diseases of the digestive system
+K63 Other diseases of intestine	K63.tsv	K00 - K93 Diseases of the digestive system
+K65 Peritonitis	K65.tsv	K00 - K93 Diseases of the digestive system
+K66 Other disorders of peritoneum	K66.tsv	K00 - K93 Diseases of the digestive system
+K70 Alcoholic liver disease	K70.tsv	K00 - K93 Diseases of the digestive system
+K74 Fibrosis and cirrhosis of liver	K74.tsv	K00 - K93 Diseases of the digestive system
+K75 Other inflammatory liver diseases	K75.tsv	K00 - K93 Diseases of the digestive system
+K76 Other diseases of liver	K76.tsv	K00 - K93 Diseases of the digestive system
+K80 Cholelithiasis	K80.tsv	K00 - K93 Diseases of the digestive system
+K81 Cholecystitis	K81.tsv	K00 - K93 Diseases of the digestive system
+K82 Other diseases of gallbladder	K82.tsv	K00 - K93 Diseases of the digestive system
+K83 Other diseases of biliary tract	K83.tsv	K00 - K93 Diseases of the digestive system
+K85 Acute pancreatitis	K85.tsv	K00 - K93 Diseases of the digestive system
+K86 Other diseases of pancreas	K86.tsv	K00 - K93 Diseases of the digestive system
+K90 Intestinal malabsorption	K90.tsv	K00 - K93 Diseases of the digestive system
+K91 Postprocedural disorders of digestive system, not elsewhere classified	K91.tsv	K00 - K93 Diseases of the digestive system
+K92 Other diseases of digestive system	K92.tsv	K00 - K93 Diseases of the digestive system
+"L02 Cutaneous abscess, furuncle and carbuncle"	L02.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L03 Cellulitis	L03.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L05 Pilonidal cyst	L05.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L08 Other local infections of skin and subcutaneous tissue	L08.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L27 Dermatitis due to substances taken internally	L27.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L28 Lichen simplex chronicus and prurigo	L28.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L29 Pruritus	L29.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L30 Other dermatitis	L30.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L40 Psoriasis	L40.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L43 Lichen planus	L43.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L50 Urticaria	L50.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L53 Other erythematous conditions	L53.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L57 Skin changes due to chronic exposure to nonionising radiation	L57.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L60 Nail disorders	L60.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L71 Rosacea	L71.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L72 Follicular cysts of skin and subcutaneous tissue	L72.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L73 Other follicular disorders	L73.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L81 Other disorders of pigmentation	L81.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L82 Seborrhoeic keratosis	L82.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L85 Other epidermal thickening	L85.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L90 Atrophic disorders of skin	L90.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L91 Hypertrophic disorders of skin	L91.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+L92 Granulomatous disorders of skin and subcutaneous tissue	L92.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+"L97 Ulcer of lower limb, not elsewhere classified"	L97.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+"L98 Other disorders of skin and subcutaneous tissue, not elsewhere classified"	L98.tsv	L00 - L99 Diseases of the skin and subcutaneous tissue
+M00 Pyogenic arthritis	M00.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M05 Seropositive rheumatoid arthritis	M05.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M06 Other rheumatoid arthritis	M06.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M10 Gout	M10.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+"M13 Other arthritis, achilles"	M13_ACHILLESTEND.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M13 Other arthritis	M13.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M15 Polyarthrosis	M15.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M16 Coxarthrosis [arthrosis of hip]	M16.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M17 Gonarthrosis [arthrosis of knee]	M17.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M18 Arthrosis of first carpometacarpal joint	M18.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M19 Other arthrosis	M19.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M20 Acquired deformities of fingers and toes	M20.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M21 Other acquired deformities of limbs	M21.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M22 Disorders of patella	M22.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M23 Internal derangement of knee	M23.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M24 Other specific joint derangements	M24.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+"M25 Other joint disorders, not elsewhere classified"	M25.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M31 Other necrotising vasculopathies	M31.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M35 Other systemic involvement of connective tissue	M35.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M41 Scoliosis	M41.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M43 Other deforming dorsopathies	M43.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M45 Ankylosing spondylitis	M45.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M46 Other inflammatory spondylopathies	M46.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M47 Spondylosis	M47.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M48 Other spondylopathies	M48.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M50 Cervical disk disorders	M50.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M51 Other intervertebral disk disorders	M51.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+"M53 Other dorsopathies, not elsewhere classified"	M53.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M54 Dorsalgia	M54.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M60 Myositis	M60.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M62 Other disorders of muscle	M62.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M65 Synovitis and tenosynovitis	M65.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M66 Spontaneous rupture of synovium and tendon	M66.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M67 Other disorders of synovium and tendon	M67.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+"M70 Soft tissue disorders related to use, overuse and pressure"	M70.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M71 Other bursopathies	M71.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M72 Fibroblastic disorders	M72.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M75 Shoulder lesions	M75.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+"M76 Enthesopathies of lower limb, excluding foot"	M76.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M77 Other enthesopathies	M77.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+"M79 Other soft tissue disorders, not elsewhere classified"	M79.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M80 Osteoporosis with pathological fracture	M80.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M81 Osteoporosis without pathological fracture	M81.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M84 Disorders of continuity of bone	M84.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M85 Other disorders of bone density and structure	M85.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M86 Osteomyelitis	M86.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M87 Osteonecrosis	M87.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M89 Other disorders of bone	M89.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M93 Other osteochondropathies	M93.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M94 Other disorders of cartilage	M94.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+M95 Other acquired deformities of musculoskeletal system and connective tissue	M95.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+"M96 Postprocedural musculoskeletal disorders, not elsewhere classified"	M96.tsv	M00 - M99 Diseases of the musculoskeletal system and connective tissue
+N02 Recurrent and persistent haematuria	N02.tsv	N00 - N99 Diseases of the genitourinary system
+N10 Acute tubulo-interstitial nephritis	N10.tsv	N00 - N99 Diseases of the genitourinary system
+"N12 Tubulo-interstitial nephritis, not specified as acute or chronic"	N12.tsv	N00 - N99 Diseases of the genitourinary system
+N13 Obstructive and reflux uropathy	N13.tsv	N00 - N99 Diseases of the genitourinary system
+N17 Acute renal failure	N17.tsv	N00 - N99 Diseases of the genitourinary system
+N18 Chronic renal failure	N18.tsv	N00 - N99 Diseases of the genitourinary system
+N19 Unspecified renal failure	N19.tsv	N00 - N99 Diseases of the genitourinary system
+N20 Calculus of kidney and ureter	N20.tsv	N00 - N99 Diseases of the genitourinary system
+N21 Calculus of lower urinary tract	N21.tsv	N00 - N99 Diseases of the genitourinary system
+N23 Unspecified renal colic	N23.tsv	N00 - N99 Diseases of the genitourinary system
+"N28 Other disorders of kidney and ureter, not elsewhere classified"	N28.tsv	N00 - N99 Diseases of the genitourinary system
+N30 Cystitis	N30.tsv	N00 - N99 Diseases of the genitourinary system
+"N31 Neuromuscular dysfunction of bladder, not elsewhere classified"	N31.tsv	N00 - N99 Diseases of the genitourinary system
+N32 Other disorders of bladder	N32.tsv	N00 - N99 Diseases of the genitourinary system
+N35 Urethral stricture	N35.tsv	N00 - N99 Diseases of the genitourinary system
+N36 Other disorders of urethra	N36.tsv	N00 - N99 Diseases of the genitourinary system
+N39 Other disorders of urinary system	N39.tsv	N00 - N99 Diseases of the genitourinary system
+N40 Hyperplasia of prostate	N40.tsv	N00 - N99 Diseases of the genitourinary system
+N41 Inflammatory diseases of prostate	N41.tsv	N00 - N99 Diseases of the genitourinary system
+N42 Other disorders of prostate	N42.tsv	N00 - N99 Diseases of the genitourinary system
+N43 Hydrocele and spermatocele	N43.tsv	N00 - N99 Diseases of the genitourinary system
+N45 Orchitis and epididymitis	N45.tsv	N00 - N99 Diseases of the genitourinary system
+"N47 Redundant prepuce, phimosis and paraphimosis"	N47.tsv	N00 - N99 Diseases of the genitourinary system
+N48 Other disorders of penis	N48.tsv	N00 - N99 Diseases of the genitourinary system
+"N49 Inflammatory disorders of male genital organs, not elsewhere classified"	N49.tsv	N00 - N99 Diseases of the genitourinary system
+N50 Other disorders of male genital organs	N50.tsv	N00 - N99 Diseases of the genitourinary system
+N60 Benign mammary dysplasia	N60.tsv	N00 - N99 Diseases of the genitourinary system
+N61 Inflammatory disorders of breast	N61.tsv	N00 - N99 Diseases of the genitourinary system
+N62 Hypertrophy of breast	N62.tsv	N00 - N99 Diseases of the genitourinary system
+N63 Unspecified lump in breast	N63.tsv	N00 - N99 Diseases of the genitourinary system
+N64 Other disorders of breast	N64.tsv	N00 - N99 Diseases of the genitourinary system
+N70 Salpingitis and oophoritis	N70.tsv	N00 - N99 Diseases of the genitourinary system
+"N71 Inflammatory disease of uterus, except cervix"	N71.tsv	N00 - N99 Diseases of the genitourinary system
+N72 Inflammatory disease of cervix uteri	N72.tsv	N00 - N99 Diseases of the genitourinary system
+N73 Other female pelvic inflammatory diseases	N73.tsv	N00 - N99 Diseases of the genitourinary system
+N75 Diseases of Bartholin's gland	N75.tsv	N00 - N99 Diseases of the genitourinary system
+N76 Other inflammation of vagina and vulva	N76.tsv	N00 - N99 Diseases of the genitourinary system
+N80 Endometriosis	N80.tsv	N00 - N99 Diseases of the genitourinary system
+N81 Female genital prolapse	N81.tsv	N00 - N99 Diseases of the genitourinary system
+N82 Fistulae involving female genital tract	N82.tsv	N00 - N99 Diseases of the genitourinary system
+"N83 Noninflammatory disorders of ovary, Fallopian tube and broad ligament"	N83.tsv	N00 - N99 Diseases of the genitourinary system
+N84 Polyp of female genital tract	N84.tsv	N00 - N99 Diseases of the genitourinary system
+"N85 Other noninflammatory disorders of uterus, except cervix"	N85.tsv	N00 - N99 Diseases of the genitourinary system
+N86 Erosion and ectropion of cervix uteri	N86.tsv	N00 - N99 Diseases of the genitourinary system
+N87 Dysplasia of cervix uteri	N87.tsv	N00 - N99 Diseases of the genitourinary system
+N88 Other noninflammatory disorders of cervix uteri	N88.tsv	N00 - N99 Diseases of the genitourinary system
+N89 Other noninflammatory disorders of vagina	N89.tsv	N00 - N99 Diseases of the genitourinary system
+N90 Other noninflammatory disorders of vulva and perineum	N90.tsv	N00 - N99 Diseases of the genitourinary system
+"N92 Excessive, frequent and irregular menstruation"	N92.tsv	N00 - N99 Diseases of the genitourinary system
+N93 Other abnormal uterine and vaginal bleeding	N93.tsv	N00 - N99 Diseases of the genitourinary system
+N94 Pain and other conditions associated with female genital organs and menstrual cycle	N94.tsv	N00 - N99 Diseases of the genitourinary system
+N95 Menopausal and other perimenopausal disorders	N95.tsv	N00 - N99 Diseases of the genitourinary system
+N97 Female infertility	N97.tsv	N00 - N99 Diseases of the genitourinary system
+"N99 Postprocedural disorders of genito-urinary system, not elsewhere classified"	N99.tsv	N00 - N99 Diseases of the genitourinary system
+O00 Ectopic pregnancy	O00.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O02 Other abnormal products of conception	O02.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O03 Spontaneous abortion	O03.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O04 Medical abortion	O04.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O13 Gestational [pregnancy-induced] hypertension without significant proteinuria	O13.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O14 Gestational [pregnancy-induced] hypertension with significant proteinuria	O14.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O16 Unspecified maternal hypertension	O16.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O20 Haemorrhage in early pregnancy	O20.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O21 Excessive vomiting in pregnancy	O21.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O23 Infections of genito-urinary tract in pregnancy	O23.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O26 Maternal care for other conditions predominantly related to pregnancy	O26.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O32 Maternal care for known or suspected malpresentation of foetus	O32.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O34 Maternal care for known or suspected abnormality of pelvic organs	O34.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O35 Maternal care for known or suspected foetal abnormality and damage	O35.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O36 Maternal care for other known or suspected foetal problems	O36.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O42 Premature rupture of membranes	O42.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O44 Placenta praevia	O44.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+"O46 Antepartum haemorrhage, not elsewhere classified"	O46.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O47 False labour	O47.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O48 Prolonged pregnancy	O48.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O60 Preterm delivery	O60.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O62 Abnormalities of forces of labour	O62.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O63 Long labour	O63.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O64 Obstructed labour due to malposition and malpresentation of foetus	O64.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O68 Labour and delivery complicated by foetal stress [distress]	O68.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O69 Labour and delivery complicated by umbilical cord complications	O69.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O70 Perineal laceration during delivery	O70.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O72 Postpartum haemorrhage	O72.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+"O75 Other complications of labour and delivery, not elsewhere classified"	O75.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O80 Single spontaneous delivery	O80.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+O82 Single delivery by Caesarean section	O82.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+"O99 Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium"	O99.tsv	"O00 - O99 Pregnancy, childbirth and the puerperium"
+Q18 Other congenital malformations of face and neck	Q18.tsv	"Q00 - Q99 Congenital malformations, deformations and chromosomal abnormalities"
+Q21 Congenital malformations of cardiac septa	Q21.tsv	"Q00 - Q99 Congenital malformations, deformations and chromosomal abnormalities"
+"Q38 Other congenital malformations of tongue, mouth and pharynx"	Q38.tsv	"Q00 - Q99 Congenital malformations, deformations and chromosomal abnormalities"
+Q66 Congenital deformities of feet	Q66.tsv	"Q00 - Q99 Congenital malformations, deformations and chromosomal abnormalities"
+Q82 Other congenital malformations of skin	Q82.tsv	"Q00 - Q99 Congenital malformations, deformations and chromosomal abnormalities"
+R00 Abnormalities of heart beat	R00.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R04 Haemorrhage from respiratory passages	R04.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R05 Cough	R05.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R06 Abnormalities of breathing	R06.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R07 Pain in throat and chest	R07.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R09 Other symptoms and signs involving the circulatory and respiratory systems	R09.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R10 Abdominal and pelvic pain	R10.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R11 Nausea and vomiting	R11.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R12 Heartburn	R12.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R13 Dysphagia	R13.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R14 Flatulence and related conditions	R14.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R15 Faecal incontinence	R15.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R17 Unspecified jaundice	R17.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R18 Ascites	R18.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R19 Other symptoms and signs involving the digestive system and abdomen	R19.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R20 Disturbances of skin sensation	R20.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R21 Rash and other nonspecific skin eruption	R21.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+"R22 Localised swelling, mass and lump of skin and subcutaneous tissue"	R22.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R23 Other skin changes	R23.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R25 Abnormal involuntary movements	R25.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R26 Abnormalities of gait and mobility	R26.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R29 Other symptoms and signs involving the nervous and musculoskeletal systems	R29.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R30 Pain associated with micturition	R30.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R31 Unspecified haematuria	R31.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R32 Unspecified urinary incontinence	R32.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R33 Retention of urine	R33.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R35 Polyuria	R35.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R39 Other symptoms and signs involving the urinary system	R39.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+"R40 Somnolence, stupor and coma"	R40.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R41 Other symptoms and signs involving cognitive functions and awareness	R41.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R42 Dizziness and giddiness	R42.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+"R47 Speech disturbances, not elsewhere classified"	R47.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R49 Voice disturbances	R49.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R50 Fever of unknown origin	R50.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R51 Headache	R51.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+"R52 Pain, not elsewhere classified"	R52.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R53 Malaise and fatigue	R53.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R54 Senility	R54.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R55 Syncope and collapse	R55.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+"R56 Convulsions, not elsewhere classified"	R56.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R59 Enlarged lymph nodes	R59.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+"R60 Oedema, not elsewhere classified"	R60.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R61 Hyperhidrosis	R61.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R63 Symptoms and signs concerning food and fluid intake	R63.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R68 Other general symptoms and signs	R68.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R69 Unknown and unspecified causes of morbidity	R69.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R73 Elevated blood glucose level	R73.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R76 Other abnormal immunological findings in serum	R76.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R79 Other abnormal findings of blood chemistry	R79.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R86 Abnormal findings in specimens from male genital organs	R86.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R87 Abnormal findings in specimens from female genital organs	R87.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R90 Abnormal findings on diagnostic imaging of central nervous system	R90.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R91 Abnormal findings on diagnostic imaging of lung	R91.tsv	"R00 - R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+S00 Superficial injury of head	S00.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S01 Open wound of head	S01.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S02 Fracture of skull and facial bones	S02.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S05 Injury of eye and orbit	S05.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S06 Intracranial injury	S06.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S09 Other and unspecified injuries of head	S09.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S12 Fracture of neck	S12.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S20 Superficial injury of thorax	S20.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"S22 Fracture of rib(s), sternum and thoracic spine"	S22.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S27 Injury of other and unspecified intrathoracic organs	S27.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"S30 Superficial injury of abdomen, lower back and pelvis"	S30.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"S31 Open wound of abdomen, lower back and pelvis"	S31.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S32 Fracture of lumbar spine and pelvis	S32.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"S39 Other and unspecified injuries of abdomen, lower back and pelvis"	S39.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S42 Fracture of shoulder and upper arm	S42.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"S43 Dislocation, sprain and strain of joints and ligaments of shoulder girdle"	S43.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S46 Injury of muscle and tendon at shoulder and upper arm level	S46.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S51 Open wound of forearm	S51.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S52 Fracture of forearm	S52.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S56 Injury of muscle and tendon at forearm level	S56.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S60 Superficial injury of wrist and hand	S60.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S61 Open wound of wrist and hand	S61.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S62 Fracture at wrist and hand level	S62.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"S63 Dislocation, sprain and strain of joints and ligaments at wrist and hand level"	S63.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S64 Injury of nerves at wrist and hand level	S64.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S66 Injury of muscle and tendon at wrist and hand level	S66.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S67 Crushing injury of wrist and hand	S67.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S68 Traumatic amputation of wrist and hand	S68.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S69 Other and unspecified injuries of wrist and hand	S69.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S70 Superficial injury of hip and thigh	S70.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S72 Fracture of femur	S72.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S76 Injury of muscle and tendon at hip and thigh level	S76.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S80 Superficial injury of lower leg	S80.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S81 Open wound of lower leg	S81.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"S82 Fracture of lower leg, including ankle"	S82.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"S83 Dislocation, sprain and strain of joints and ligaments of knee"	S83.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S86 Injury of muscle and tendon at lower leg level	S86.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S89 Other and unspecified injuries of lower leg	S89.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+S91 Open wound of ankle and foot	S91.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"S92 Fracture of foot, except ankle"	S92.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"S93 Dislocation, sprain and strain of joints and ligaments at ankle and foot level"	S93.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+T14 Injury of unspecified body region	T14.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+T17 Foreign body in respiratory tract	T17.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+T18 Foreign body in alimentary tract	T18.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"T39 Poisoning by nonopioid analgesics, antipyretics and antirheumatics"	T39.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+T40 Poisoning by narcotics and psychodysleptics [hallucinogens]	T40.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"T42 Poisoning by antiepileptic, sedative-hypnotic and anti-Parkinsonism drugs"	T42.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"T43 Poisoning by psychotropic drugs, not elsewhere classified"	T43.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"T50 Poisoning by diuretics and other and unspecified drugs, medicaments and biological substances"	T50.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"T78 Adverse effects, not elsewhere classified"	T78.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"T79 Certain early complications of trauma, not elsewhere classified"	T79.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"T81 Complications of procedures, not elsewhere classified"	T81.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"T82 Complications of cardiac and vascular prosthetic devices, implants and grafts"	T82.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"T83 Complications of genito-urinary prosthetic devices, implants and grafts"	T83.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"T84 Complications of internal orthopaedic prosthetic devices, implants and grafts"	T84.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"T85 Complications of other internal prosthetic devices, implants and grafts"	T85.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+T86 Failure and rejection of transplanted organs and tissues	T86.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+T87 Complications peculiar to reattachment and amputation	T87.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+"T88 Other complications of surgical and medical care, not elsewhere classified"	T88.tsv	"S00 - T98 Injury, poisoning and certain other consequences of external causes"
+Z00 General examination and investigation of persons without complaint or reported diagnosis	Z00.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z01 Other special examinations and investigations of persons without complaint or reported diagnosis	Z01.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z03 Medical observation and evaluation for suspected diseases and conditions	Z03.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z04 Examination and observation for other reasons	Z04.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z08 Follow-up examination after treatment for malignant neoplasm	Z08.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z09 Follow-up examination after treatment for conditions other than malignant neoplasms	Z09.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z11 Special screening examination for infectious and parasitic diseases	Z11.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z12 Special screening examination for neoplasms	Z12.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z13 Special screening examination for other diseases and disorders	Z13.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z29 Need for other prophylactic measures	Z29.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z30 Contraceptive management	Z30.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z31 Procreative management	Z31.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z34 Supervision of normal pregnancy	Z34.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z35 Supervision of high-risk pregnancy	Z35.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z36 Antenatal screening	Z36.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z39 Postpartum care and examination	Z39.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z40 Prophylactic surgery	Z40.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z41 Procedures for purposes other than remedying health state	Z41.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z42 Follow-up care involving plastic surgery	Z42.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z43 Attention to artificial openings	Z43.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z45 Adjustment and management of implanted device	Z45.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z46 Fitting and adjustment of other devices	Z46.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z47 Other orthopaedic follow-up care	Z47.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z48 Other surgical follow-up care	Z48.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z50 Care involving use of rehabilitation procedures	Z50.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z51 Other medical care	Z51.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z52 Donors of organs and tissues	Z52.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+"Z53 Persons encountering health services for specifie procedures, not carried out"	Z53.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+"Z71 Persons encountering health services for other counselling and medical advice, not elsewhere classified"	Z71.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z76 Persons encountering health services in other circumstances	Z76.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z80 Family history of malignant neoplasm	Z80.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z85 Personal history of malignant neoplasm	Z85.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Z87 Personal history of other diseases and conditions	Z87.tsv	Z00 - Z99 Factors influencing health status and contact with health services
+Cisplatin-Induced Ototoxicity	PGxCisplatinGWAS.tsv	Pharmacogenomic
+Antihypertensive-Induced New-Onset Diabetes	PGxDiabetesAntihypertensives.tsv	Pharmacogenomic
+Allopurinol Response	PGxAllopurinolResponse.tsv	Pharmacogenomic
