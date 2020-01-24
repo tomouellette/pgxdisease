@@ -1,4 +1,4 @@
-# <span style="color:red">Code will be added following manuscript publication/initial review.</span>
+<span style="color:red">Code will be added following manuscript publication/initial review.</span>
 
 # Integrating disease and drug-related phenotypes for improved identification of pharmacogenomic variants
 
