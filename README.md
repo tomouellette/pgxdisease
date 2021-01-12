@@ -2,7 +2,7 @@
 
 ## Data
 
-The required data to replicate statistically significant findings for visualization and colocalization analysis can be retrieved from:
+Links to the data used for discovery and replication:
 
 **Pharmacogenomics Research Network**
 
