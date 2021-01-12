@@ -1,7 +1,3 @@
-## **CODE WILL BE UPLOADED FOLLOWING MANUSCRIPT PUBLICATION/INITIAL REVIEW**
-
-### -----------------------------
-
 # Integrating disease and drug-related phenotypes for improved identification of pharmacogenomic variants
 
 ## Data
