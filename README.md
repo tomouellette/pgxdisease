@@ -1,5 +1,7 @@
 # Integrating disease and drug-related phenotypes for improved identification of pharmacogenomic variants
 
+Paper published in Pharmacogenomics (https://www.futuremedicine.com/doi/abs/10.2217/pgs-2020-0130)
+
 ## Data
 
 Links to the data used for discovery and replication:
